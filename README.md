@@ -3,7 +3,7 @@
 
 참고 : https://github.com/JeaSungLEE/iOSInterviewquestions
 
-스터디 요일 : 매주 화/목 1시
+스터디 요일 : 매일 10시 전까지 업로드 (월-목: 스크럼 시간 / 금: 회고시간)
 파일 형식 : 자유
 스터디하면서 md 파일로 합치기
 
