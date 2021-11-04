@@ -59,7 +59,7 @@
 - Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
 
 ## Swift
-- struct와 class와 enum의 차이를 설명하시오.
+- [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convinience init에 대해 설명하시오.
