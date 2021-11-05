@@ -151,7 +151,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 - NSURLConnection 에서 사용하는 Delegate 메서드들에 대해 설명하시오.
 - Synchronous 방식과 Asynchronous 방식으로 URL Connection을 처리할 경우의 장단점을 비교하시오.
 - Plist 파일 구조와 Plist 파일에 저장된 데이터를 다루기 적합한 클래스를 설명하시오.
-- Core Data와 Sqlite 같은 데이터 베이스의 차이점을 설명하시오.
+- [Core Data와 Sqlite 같은 데이터 베이스의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/8)
 - JSON 데이터를 처리하는 방식과 파서, 객체 변환 방식에 대해 설명하시오.
 - 웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작을 설명하시오.
 - Protocol에서는 왜 var만 되는지 설명하시요.
