@@ -45,7 +45,7 @@
 ###
 - NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
 - URLSession에 대해서 설명하시오.
-- prepareForReuse에 대해서 설명하시오.
+- [prepareForReuse에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/7)
 - 다크모드를 지원하는 방법에 대해 설명하시오.
 - ViewController의 생명주기를 설명하시오.
 - TableView와 CollectionView의 차이점을 설명하시오.
@@ -94,7 +94,7 @@
 ## ARC
 - [ARC란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/4)
 - Retain Count 방식에 대해 설명하시오.
-- Strong 과 Weak 참조 방식에 대해 설명하시오.
+- [Strong 과 Weak 참조 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/6)
 - 순환 참조에 대하여 설명하시오.
 - 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
 
@@ -106,7 +106,7 @@
 
 ## Architecture
 - MVVM, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.
-- 의존성 주입에 대하여 설명하시오.
+- [의존성 주입에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/5)
 
 ## SwiftUI
 - @State에 대해서 설명하시오
