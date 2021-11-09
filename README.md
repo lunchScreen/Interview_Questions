@@ -54,9 +54,9 @@
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/lunchScreen/Interview_Questions/issues/2)
 - hugging, resistance에 대해서 설명하시오.
 - Intrinsic Size에 대해서 설명하시오.
-- 스토리보드를 이용했을때의 장단점을 설명하시오.
+- [스토리보드를 이용했을때의 장단점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/12)
 - Safearea에 대해서 설명하시오.
-- Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
+- [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/11)
 
 ## Swift
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
