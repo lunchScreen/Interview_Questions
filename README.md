@@ -46,7 +46,7 @@
 - NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
 - URLSession에 대해서 설명하시오.
 - [prepareForReuse에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/7)
-- 다크모드를 지원하는 방법에 대해 설명하시오.
+- [다크모드를 지원하는 방법에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/18)
 - [ViewController의 생명주기를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/9)
 - TableView와 CollectionView의 차이점을 설명하시오.
 
@@ -157,7 +157,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 - Protocol에서는 왜 var만 되는지 설명하시요.
 
 ## Objective-C
-- Swift의 클로저와 Objective-C의 블록은 어떤 차이가 있는가?
+- [Swift의 클로저와 Objective-C의 블록은 어떤 차이가 있는가?](https://github.com/lunchScreen/Interview_Questions/issues/17)
 - Mutable 객체과 Immutable 객체는 어떤것이 있는지 예를 들고, 차이점을 설명하시오.
 - dynamic과 property 의미와 차이를 설명하시오.
 - @property로 선언한 NSString* title 의 getter/setter 메서드를 구현해보시오.
