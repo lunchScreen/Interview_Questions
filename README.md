@@ -33,8 +33,8 @@
 - NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
 - App Bundle의 구조와 역할에 대해 설명하시오.
-- 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
-- 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
+- [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/19)
+- [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/20)
 - View 객체에 대해 설명하시오.
 - UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
 - UIWindow 객체의 역할은 무엇인가?
