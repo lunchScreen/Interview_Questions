@@ -41,14 +41,14 @@
 - UINavigationController 의 역할이 무엇인지 설명하시오.
 - TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
 - 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
-- setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.
+- [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/22)
 ###
 - NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
 - URLSession에 대해서 설명하시오.
 - [prepareForReuse에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/7)
 - [다크모드를 지원하는 방법에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/18)
 - [ViewController의 생명주기를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/9)
-- TableView와 CollectionView의 차이점을 설명하시오.
+- [TableView와 CollectionView의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/25)
 
 ## Autolayout
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/lunchScreen/Interview_Questions/issues/2)
@@ -63,10 +63,10 @@
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convinience init에 대해 설명하시오.
-- AnyObject에 대해 설명하시오.
+- [AnyObject에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/27)
 - Optional 이란 무엇인지 설명하시오.
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
-- Subscripts에 대해 설명하시오.
+- [Subscripts에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/26)
 - String은 왜 subscript로 접근이 안되는지 설명하시오.
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
 - class 메서드와 static 메서드의 차이점을 설명하시오.
@@ -77,15 +77,15 @@
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 - 프로토콜이란 무엇인지 설명하시오.
-- Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
+- [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/28)
 - Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
 - mutating 키워드에 대해 설명하시오.
 - 탈출 클로저에 대하여 설명하시오.
 - Extension에 대해 설명하시오.
 - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 - 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
-- defer란 무엇인지 설명하시오.
-- defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
+- [defer란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/23)
+- [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/24)
 - property wrapper에 대해서 설명하시오.
 - Generic에 대해 설명하시오.
 - Result타입에 대해 설명하시오.
@@ -143,7 +143,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 ## Advanced
 - method swizzling이 무엇이고, 어떨 때 사용하는지 설명하시오.
 - NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오.
-- Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오.
+- [Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오.
 - shallow copy와 deep copy의 차이점을 설명하시오.
 - Push Notification 방식에 대해 설명하시오.
