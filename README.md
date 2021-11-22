@@ -32,7 +32,7 @@
 - [Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/13)
 - NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
-- App Bundle의 구조와 역할에 대해 설명하시오.
+- [App Bundle의 구조와 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/30)
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/19)
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/20)
 - View 객체에 대해 설명하시오.
@@ -53,7 +53,7 @@
 ## Autolayout
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/lunchScreen/Interview_Questions/issues/2)
 - hugging, resistance에 대해서 설명하시오.
-- Intrinsic Size에 대해서 설명하시오.
+- [Intrinsic Size에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/29)
 - [스토리보드를 이용했을때의 장단점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/12)
 - Safearea에 대해서 설명하시오.
 - [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/11)
