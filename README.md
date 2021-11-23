@@ -36,7 +36,7 @@
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/19)
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/20)
 - View 객체에 대해 설명하시오.
-- UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
+- [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/31)
 - UIWindow 객체의 역할은 무엇인가?
 - UINavigationController 의 역할이 무엇인지 설명하시오.
 - TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
@@ -62,7 +62,7 @@
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
-- Convinience init에 대해 설명하시오.
+- [Convinience init에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/32)
 - [AnyObject에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/27)
 - Optional 이란 무엇인지 설명하시오.
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
