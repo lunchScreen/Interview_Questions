@@ -115,8 +115,8 @@
 ## Combine
 - [PassthroughSubject에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/15)
 - [@Published에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/16)
-- AnyCancellable에 대해서 설명하시오
-- sink에 대해서 설명하시오
+- [AnyCancellable에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/34)
+- [sink에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/33)
 
 # Optional
 아래부터는 추가로 공부를 하면 좋을 내용들입니다.
