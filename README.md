@@ -52,7 +52,7 @@
 
 ## Autolayout
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/lunchScreen/Interview_Questions/issues/2)
-- hugging, resistance에 대해서 설명하시오.
+- [hugging, resistance에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/36)
 - [Intrinsic Size에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/29)
 - [스토리보드를 이용했을때의 장단점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/12)
 - Safearea에 대해서 설명하시오.
@@ -80,7 +80,7 @@
 - [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/28)
 - Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
 - mutating 키워드에 대해 설명하시오.
-- 탈출 클로저에 대하여 설명하시오.
+- [탈출 클로저에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/35)
 - Extension에 대해 설명하시오.
 - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 - 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
