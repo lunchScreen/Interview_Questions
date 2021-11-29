@@ -16,10 +16,10 @@
 ###
 - 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?
 - @Main에 대해서 설명하시오.
-- 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
+- [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/lunchScreen/Interview_Questions/issues/42)
 - 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
 - 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
-- scene delegate에 대해 설명하시오.
+- [scene delegate에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/41)
 - UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
 - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
 ###
