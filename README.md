@@ -1,7 +1,9 @@
 # Interview_Questions
 기술면접을 준비하는 버디들
 
-참고 : https://github.com/JeaSungLEE/iOSInterviewquestions
+참고 : [JeaSungLEE](https://github.com/JeaSungLEE/iOSInterviewquestions), 
+      [inswag](https://github.com/inswag/Technical_interview_for_iOS_Dev), 
+      [DopplerHQ](https://github.com/DopplerHQ/awesome-interview-questions#ios)
 
 스터디 요일 : 매일 10시 전까지 업로드 (월-목: 스크럼 시간 / 금: 회고시간)
 파일 형식 : 자유
