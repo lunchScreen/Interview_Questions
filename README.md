@@ -5,9 +5,8 @@
       [inswag](https://github.com/inswag/Technical_interview_for_iOS_Dev), 
       [DopplerHQ](https://github.com/DopplerHQ/awesome-interview-questions#ios)
 
-스터디 요일 : 매일 10시 전까지 업로드 (월-목: 스크럼 시간 / 금: 회고시간)
-파일 형식 : 자유
-스터디하면서 md 파일로 합치기
+스터디 요일 : 매주 화 목 10시 (화 : 목금월 질문회고 / 목: 화수 질문회고) <br/>
+제출 형식 : 각자 공부한것 issue 댓글로 달기
 
 ## iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/1)
