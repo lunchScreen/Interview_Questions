@@ -62,7 +62,7 @@
 
 ## Swift
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
-- class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
+- [class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.](https://github.com/lunchScreen/Interview_Questions/issues/50)
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - [Convinience init에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/32)
 - [AnyObject에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/27)
@@ -146,7 +146,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 - method swizzling이 무엇이고, 어떨 때 사용하는지 설명하시오.
 - NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오.
 - [Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/21)
-- NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오.
+- [NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/49)
 - shallow copy와 deep copy의 차이점을 설명하시오.
 - Push Notification 방식에 대해 설명하시오.
 - Foundation 과 Core Foundation 프레임워크의 차이점을 설명하시오.
