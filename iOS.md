@@ -1,4 +1,4 @@
-## iOS
+## 📌 iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/1)
 - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
 - 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
@@ -41,7 +41,7 @@
 - [ViewController의 생명주기를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/9)
 - [TableView와 CollectionView의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/25)
 
-## Autolayout
+## 📌 Autolayout
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/lunchScreen/Interview_Questions/issues/2)
 - [hugging, resistance에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/36)
 - [Intrinsic Size에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/29)
@@ -49,7 +49,7 @@
 - [Safearea에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/39)
 - [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/11)
 
-## Swift
+## 📌 Swift
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - [class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.](https://github.com/lunchScreen/Interview_Questions/issues/50)
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
@@ -82,34 +82,34 @@
 - Result타입에 대해 설명하시오.
 - Codable에 대하여 설명하시오.
 
-## ARC
+## 📌 ARC
 - [ARC란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/4)
 - Retain Count 방식에 대해 설명하시오.
 - [Strong 과 Weak 참조 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/6)
 - 순환 참조에 대하여 설명하시오.
 - 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
 
-## Functional Programming
+## 📌 Functional Programming
 - 순수함수란 무엇인지 설명하시오.
 - 함수형 프로그래밍이 무엇인지 설명하시오.
 - 고차 함수가 무엇인지 설명하시오.
 - Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
 
-## Architecture
+## 📌 Architecture
 - MVVM, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.
 - [의존성 주입에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/5)
 
-## SwiftUI
+## 📌 SwiftUI
 - @State에 대해서 설명하시오
-- 
 
-## Combine
+
+## 📌 Combine
 - [PassthroughSubject에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/15)
 - [@Published에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/16)
 - [AnyCancellable에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/34)
 - [sink에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/33)
 
-# Optional
+# 📌 Optional
 아래부터는 추가로 공부를 하면 좋을 내용들입니다.
 
 Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입이나 주니어기준으로 필수라고 여겨지지않기에 옵셔널에 추가하였습니다.
