@@ -45,7 +45,7 @@
 
 - [✨TCP 와 UDP의 특징과 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/48)
 - ✨HTTP GET과 POST의 차이는 무엇인가요?
-- ✨3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.
+- ✨[3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/58)
 - ✨TCP의 신뢰성 보장은 어떻게?
 - ✨TCP RST 
 - OSI 7계층
@@ -96,7 +96,7 @@
 
 ## 📌 Data Structure
 
-- ✨스택과 큐에 대해서 설명해 주세요.
+- ✨[스택과 큐에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/57)
 - ✨해시테이블에 대해서 설명해 주세요.
 - 배열과 링크드 리스트의 차이점에 대해서 설명해 주세요.
 - 시간 복잡도란 무엇인가
@@ -138,7 +138,7 @@
 ## 📌 ETC
 
 - ✨함수형 프로그래밍에 대해서 설명해 주세요.
-- ✨오버로딩과 오버라이딩의 차이는 무엇인가요?
+- ✨[오버로딩과 오버라이딩의 차이는 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/56)
 - ✨reference와 value는 각각 어디에 메모리 할당되는가
 - ✨heap, stack에 메모리 할당하는 것 중 어떤 것이 더 빠른가? 그 이유는?
 - ✨TDD (도입한 이유, 느낀점, 테스트코드를 고쳐야할 때도 있을텐데?)
