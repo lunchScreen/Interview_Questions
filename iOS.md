@@ -50,19 +50,20 @@
 - [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/11)
 
 ## 📌 Swift
+- [Dynamic Dispatch 란 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/53)
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - [class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.](https://github.com/lunchScreen/Interview_Questions/issues/50)
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - [Convinience init에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/32)
 - [AnyObject에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/27)
-- Optional 이란 무엇인지 설명하시오.
+- [Optional 이란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/54)
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
 - [Subscripts에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/26)
 - [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/37)
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
 - class 메서드와 static 메서드의 차이점을 설명하시오.
 - [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/14)
-- Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
+- [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/55)
 - [KVO 동작 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/40)
 - Delegates와 Notification 방식의 차이점에 대해 설명하시오.
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
