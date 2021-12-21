@@ -3,8 +3,8 @@
 - [✨프로세스와 스레드의 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/51)
 - [✨Race Condition에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/52)
 - ✨메모리가 부족하면 OS 가 어떤일을 할까?(iOS 측면도 )
-- ✨교착상태(데드락, Deadlock)이 발생하기위한 조건과 해결책
-- ✨CPU 스케쥴링의 종류
+- [✨교착상태(데드락, Deadlock)이 발생하기위한 조건과 해결책](https://github.com/lunchScreen/Interview_Questions/issues/63)
+- [✨CPU 스케쥴링의 종류](https://github.com/lunchScreen/Interview_Questions/issues/64)
 - race condition(경쟁상태)를 방지하기 위한 조건
 - 프로세스에 할당되는 메모리의 각 영역에 대해서 설명해 주세요.
 - 메모리 구조의 순서가 어떻게 되는가? CPU에서 가까운 순으로 말해보시오.
@@ -44,7 +44,7 @@
 ## 📌 Network
 
 - [✨TCP 와 UDP의 특징과 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/48)
-- ✨HTTP GET과 POST의 차이는 무엇인가요?
+- [✨HTTP GET과 POST의 차이는 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/62)
 - ✨[3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/58)
 - ✨TCP의 신뢰성 보장은 어떻게?
 - ✨TCP RST 
