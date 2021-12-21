@@ -61,11 +61,11 @@
 - [Subscripts에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/26)
 - [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/37)
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
-- class 메서드와 static 메서드의 차이점을 설명하시오.
+- [class 메서드와 static 메서드의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/60)
 - [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/14)
 - [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/55)
 - [KVO 동작 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/40)
-- Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+- [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/59)
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 - 프로토콜이란 무엇인지 설명하시오.
@@ -97,7 +97,7 @@
 - Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
 
 ## 📌 Architecture
-- MVVM, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.
+- [MVVM, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/61)
 - [의존성 주입에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/5)
 
 ## 📌 SwiftUI
