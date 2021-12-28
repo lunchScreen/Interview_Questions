@@ -117,8 +117,8 @@ Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입
 
 ## Rx
 - [Reactive Programming이 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/38)
-- RxSwift를 왜 사용하는지 설명하시오.
-- RxSwift의 단점을 설명하시오.
+- [RxSwift를 왜 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/67)
+- [RxSwift의 단점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/68)
 - RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.
 - Subject의 종류와 차이점에 대해 설명하시오.
 - Subject와 drive의 차이를 설명하시오.
