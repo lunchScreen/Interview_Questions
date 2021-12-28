@@ -123,8 +123,8 @@
 
 - ✨인덱스란 무엇인가요? 어떻게 동작 하나요?
 - ✨결합인덱스
-- ✨NoSQL vs RDBMS
-- ✨트랜잭션이란 무엇인가요? 4가지 원칙을 포함해서 설명해 주세요.
+- ✨[NoSQL vs RDBMS](https://github.com/lunchScreen/Interview_Questions/issues/65)
+- ✨[트랜잭션이란 무엇인가요? 4가지 원칙을 포함해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/66)
 - 트랜잭션의 격리 수준과 각 수준에서 발생할 수 있는 문제들에 대해 말해보세요.
 - 인덱스의 알고리즘에는 어떤 것들이 있나요?
 - JOIN에 대해서 설명해 주세요.
