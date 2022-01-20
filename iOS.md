@@ -26,7 +26,7 @@
 - [App Bundle의 구조와 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/30)
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/19)
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/20)
-- View 객체에 대해 설명하시오.
+- [View 객체에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/70)
 - [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/31)
 - [UIWindow 객체의 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/43)
 - [UINavigationController 의 역할이 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/44)
@@ -91,7 +91,7 @@
 - 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
 
 ## 📌 Functional Programming
-- 순수함수란 무엇인지 설명하시오.
+- [순수함수란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/69)
 - 함수형 프로그래밍이 무엇인지 설명하시오.
 - 고차 함수가 무엇인지 설명하시오.
 - Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
