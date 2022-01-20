@@ -18,7 +18,7 @@
 - 페이지 교체 알고리즘의 종류
 - 가상 메모리의 개념과 사용할시의 장단점
 - 시스템 콜
-- IPC
+- [IPC](https://github.com/lunchScreen/Interview_Questions/issues/72)
 - 인터럽트
 - 뮤텍스와 세마포어의 차이
 - Context Switching의 개념과 과정
@@ -57,7 +57,7 @@
 - HTTP 프로토콜에 대해서 아는대로 말해주세요.
 - HTTP와 HTTPS 의 차이는 무엇인가요?
 - HTTP 1.0과 1.1의 차이는 무엇인가요?
-- HTTP 헤더의 구조에 대해서 설명해 주세요.
+- [HTTP 헤더의 구조에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/71)
 - 쿠키와 세션에 대해서 설명해 주세요.
 - 웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.
 - CORS란 무엇인가요?
