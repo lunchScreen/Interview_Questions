@@ -34,12 +34,13 @@
 - 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
 - [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/22)
 ###
-- NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
-- URLSession에 대해서 설명하시오.
+- [NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/73)
+- [URLSession에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/74)
 - [prepareForReuse에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/7)
 - [다크모드를 지원하는 방법에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/18)
 - [ViewController의 생명주기를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/9)
 - [TableView와 CollectionView의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/25)
+
 
 ## 📌 Autolayout
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/lunchScreen/Interview_Questions/issues/2)
@@ -53,7 +54,7 @@
 - [Dynamic Dispatch 란 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/53)
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/3)
 - [class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.](https://github.com/lunchScreen/Interview_Questions/issues/50)
-- Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
+- [Copy On Write는 어떤 방식으로 동작하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/77)
 - [Convinience init에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/32)
 - [AnyObject에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/27)
 - [Optional 이란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/54)
@@ -70,7 +71,7 @@
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 - 프로토콜이란 무엇인지 설명하시오.
 - [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/28)
-- Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
+- [Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/78)
 - mutating 키워드에 대해 설명하시오.
 - [탈출 클로저에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/35)
 - Extension에 대해 설명하시오.
