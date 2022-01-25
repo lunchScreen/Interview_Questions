@@ -97,7 +97,7 @@
 ## 📌 Data Structure
 
 - ✨[스택과 큐에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/57)
-- ✨[해시테이블에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/78)
+- ✨[해시테이블에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/80)
 - 배열과 링크드 리스트의 차이점에 대해서 설명해 주세요.
 - 시간 복잡도란 무엇인가
 - 시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?
@@ -121,7 +121,7 @@
 
 ## 📌 Datebase
 
-- ✨[인덱스란 무엇인가요? 어떻게 동작 하나요?](https://github.com/lunchScreen/Interview_Questions/issues/77)
+- ✨[인덱스란 무엇인가요? 어떻게 동작 하나요?](https://github.com/lunchScreen/Interview_Questions/issues/79)
 - ✨결합인덱스
 - ✨[NoSQL vs RDBMS](https://github.com/lunchScreen/Interview_Questions/issues/65)
 - ✨[트랜잭션이란 무엇인가요? 4가지 원칙을 포함해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/66)
