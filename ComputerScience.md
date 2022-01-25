@@ -20,7 +20,7 @@
 - 시스템 콜
 - [IPC](https://github.com/lunchScreen/Interview_Questions/issues/72)
 - 인터럽트
-- 뮤텍스와 세마포어의 차이
+- [뮤텍스와 세마포어의 차이](https://github.com/lunchScreen/Interview_Questions/issues/75)
 - Context Switching의 개념과 과정
 - 임계구역
 - 프로세스 혹은 스레드의 동기화란 무엇인가요?
@@ -59,7 +59,7 @@
 - HTTP 1.0과 1.1의 차이는 무엇인가요?
 - [HTTP 헤더의 구조에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/71)
 - 쿠키와 세션에 대해서 설명해 주세요.
-- 웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.
+- [웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/76)
 - CORS란 무엇인가요?
 - 웹 서버와 웹 어플리케이션 서버(WAS)의 차이는 무엇인가요?
 - REST API에 대해서 설명해 주세요.
@@ -97,7 +97,7 @@
 ## 📌 Data Structure
 
 - ✨[스택과 큐에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/57)
-- ✨해시테이블에 대해서 설명해 주세요.
+- ✨[해시테이블에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/78)
 - 배열과 링크드 리스트의 차이점에 대해서 설명해 주세요.
 - 시간 복잡도란 무엇인가
 - 시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?
@@ -121,7 +121,7 @@
 
 ## 📌 Datebase
 
-- ✨인덱스란 무엇인가요? 어떻게 동작 하나요?
+- ✨[인덱스란 무엇인가요? 어떻게 동작 하나요?](https://github.com/lunchScreen/Interview_Questions/issues/77)
 - ✨결합인덱스
 - ✨[NoSQL vs RDBMS](https://github.com/lunchScreen/Interview_Questions/issues/65)
 - ✨[트랜잭션이란 무엇인가요? 4가지 원칙을 포함해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/66)
