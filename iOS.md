@@ -5,10 +5,10 @@
 - 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
 - App thinning에 대해서 설명하시오.
 ###
-- 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?
+- [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/82)
 - @Main에 대해서 설명하시오.
 - [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/lunchScreen/Interview_Questions/issues/42)
-- 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
+- [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/81)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/45)
 - [scene delegate에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/41)
 - UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
@@ -83,6 +83,7 @@
 - Generic에 대해 설명하시오.
 - Result타입에 대해 설명하시오.
 - Codable에 대하여 설명하시오.
+- [swift 내의 sort 가 어떻게 구현되어있나요?](https://github.com/lunchScreen/Interview_Questions/issues/83)
 
 ## 📌 ARC
 - [ARC란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/4)
@@ -93,7 +94,7 @@
 
 ## 📌 Functional Programming
 - [순수함수란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/69)
-- 함수형 프로그래밍이 무엇인지 설명하시오.
+- [함수형 프로그래밍이 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/69)
 - 고차 함수가 무엇인지 설명하시오.
 - Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
 
