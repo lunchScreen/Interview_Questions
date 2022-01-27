@@ -19,7 +19,7 @@
 - 가상 메모리의 개념과 사용할시의 장단점
 - 시스템 콜
 - [IPC](https://github.com/lunchScreen/Interview_Questions/issues/72)
-- 인터럽트
+- [인터럽트](https://github.com/lunchScreen/Interview_Questions/issues/85)
 - [뮤텍스와 세마포어의 차이](https://github.com/lunchScreen/Interview_Questions/issues/75)
 - Context Switching의 개념과 과정
 - 임계구역
@@ -48,12 +48,12 @@
 - ✨[3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/58)
 - ✨TCP의 신뢰성 보장은 어떻게?
 - ✨TCP RST 
-- OSI 7계층
+- [OSI 7계층](https://github.com/lunchScreen/Interview_Questions/issues/86)
 - TCP/IP 4계층에 대해서 설명해주세요.
 - DNS가 무엇인가요?
 - 도메인 이름으로 실제 IP를 어떻게 찾을 수 있는지 흐름을 설명해 주세요.
 - TCP 헤더에 대해서 설명해 주세요.
-- 대칭키와 공개키
+- [대칭키와 공개키](https://github.com/lunchScreen/Interview_Questions/issues/84)
 - HTTP 프로토콜에 대해서 아는대로 말해주세요.
 - HTTP와 HTTPS 의 차이는 무엇인가요?
 - HTTP 1.0과 1.1의 차이는 무엇인가요?
