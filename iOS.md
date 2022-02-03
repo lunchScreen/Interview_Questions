@@ -40,6 +40,9 @@
 - [다크모드를 지원하는 방법에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/18)
 - [ViewController의 생명주기를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/9)
 - [TableView와 CollectionView의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/25)
+###
+- [gesture event 에서 두개가 들어와 충돌이 나면 delegate 로 해결할 수 있는 방법에 대해 아시나요?](https://github.com/lunchScreen/Interview_Questions/issues/87)
+- [#selector 의 메소드가 어떤 역할을 하는지?  (@Objc 를 붙이는 이유는?)](https://github.com/lunchScreen/Interview_Questions/issues/88)
 
 
 ## 📌 Autolayout
