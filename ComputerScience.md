@@ -84,15 +84,7 @@
 
 ### 정렬
 
-- ✨병합 정렬(Merge Sort)
-- 거품 정렬(Bubble Sort)
-- 선택 정렬(Selection Sort)
-- 삽입 정렬(Insertion Sort)
-- 퀵 정렬(Quick Sort)
-- 힙 정렬(Heap Sort)
-- 기수 정렬(Radix Sort)
-- 계수 정렬(Count Sort)
-- 이분 탐색(Binary Search)
+- ✨[병합 정렬, 거품 정렬, 선택 정렬, 삽입 정렬, 퀵 정렬, 힙 정렬, 기수 정렬, 계수 정렬, 이분 탐색에 대해 설명하세요.](https://github.com/lunchScreen/Interview_Questions/issues/94)
 
 ## 📌 Data Structure
 
@@ -168,6 +160,6 @@
 - 애자일 기법이란?
 - [객체지향이 무엇인가요? 절차지향과의 차이점은 뭐죠?](https://github.com/lunchScreen/Interview_Questions/issues/90)
 - [객체지향 SOLID 원칙에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/89)
-- 객체지향 4가지 특징에 대해서 설명해 주세요.
+- [객체지향 4가지 특징에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/93)
 - 데이터 타입과 변수의 차이는 무엇인가요?
 - AOP란 무엇인가요?
