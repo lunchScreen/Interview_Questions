@@ -1,6 +1,6 @@
 ## 📌 iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/1)
-- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
+- [실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/91)
 - 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
 - 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
 - App thinning에 대해서 설명하시오.
@@ -124,7 +124,7 @@ Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입
 - [Reactive Programming이 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/38)
 - [RxSwift를 왜 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/67)
 - [RxSwift의 단점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/68)
-- RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.
+- [RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/92)
 - Subject의 종류와 차이점에 대해 설명하시오.
 - Subject와 drive의 차이를 설명하시오.
 - Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오.
