@@ -14,7 +14,7 @@
 - 멀티 프로세스와 멀티 스레드의 차이점
 - First Fit, Best Fit, Worst Fit
 - 외부단편화, 내부단편화
-- 페이지와 세그멘테이션
+- [페이지와 세그멘테이션](https://github.com/lunchScreen/Interview_Questions/issues/102)
 - 페이지 교체 알고리즘의 종류
 - 가상 메모리의 개념과 사용할시의 장단점
 - 시스템 콜
@@ -140,7 +140,7 @@
 - ✨Generic
 - ✨PKI
 - ✨공유자원을 동시에 접근하면 왜 안되는가?
-- ✨GC, ARC의 개념
+- ✨[GC, ARC의 개념](https://github.com/lunchScreen/Interview_Questions/issues/101)
 - ✨왜 GC를 런타임에 해야할까?
 - ✨Retain Cycle
 - ✨GC로 Retaind cycle을 피할 수 있을까?
