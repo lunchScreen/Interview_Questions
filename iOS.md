@@ -99,7 +99,7 @@
 - [순수함수란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/69)
 - [함수형 프로그래밍이 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/69)
 - 고차 함수가 무엇인지 설명하시오.
-- Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
+- [Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/104)
 
 ## 📌 Architecture
 - [MVVM, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/61)
@@ -125,8 +125,8 @@ Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입
 - [RxSwift를 왜 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/67)
 - [RxSwift의 단점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/68)
 - [RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/92)
-- Subject의 종류와 차이점에 대해 설명하시오.
-- Subject와 drive의 차이를 설명하시오.
+- [Subject의 종류와 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/95)
+- [Subject와 drive의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/106)
 - Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오.
 
 ## MRC
