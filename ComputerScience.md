@@ -9,11 +9,11 @@
 - 프로세스에 할당되는 메모리의 각 영역에 대해서 설명해 주세요.
 - 메모리 구조의 순서가 어떻게 되는가? CPU에서 가까운 순으로 말해보시오.
 - Cache Memory의 역할은 무엇인가
-- Caching Locality와 Cache Hit Ratio에 대해 설명하시오
+- [Caching Locality와 Cache Hit Ratio에 대해 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/98)
 - 운영체제란
 - 멀티 프로세스와 멀티 스레드의 차이점
 - First Fit, Best Fit, Worst Fit
-- 외부단편화, 내부단편화
+- [외부단편화, 내부단편화](https://github.com/lunchScreen/Interview_Questions/issues/103)
 - [페이지와 세그멘테이션](https://github.com/lunchScreen/Interview_Questions/issues/102)
 - 페이지 교체 알고리즘의 종류
 - 가상 메모리의 개념과 사용할시의 장단점
@@ -46,7 +46,7 @@
 - [✨TCP 와 UDP의 특징과 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/48)
 - [✨HTTP GET과 POST의 차이는 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/62)
 - ✨[3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/58)
-- ✨TCP의 신뢰성 보장은 어떻게?
+- [✨TCP의 신뢰성 보장은 어떻게?](https://github.com/lunchScreen/Interview_Questions/issues/97)
 - ✨TCP RST 
 - [OSI 7계층](https://github.com/lunchScreen/Interview_Questions/issues/86)
 - TCP/IP 4계층에 대해서 설명해주세요.
@@ -62,7 +62,7 @@
 - [웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/76)
 - CORS란 무엇인가요?
 - 웹 서버와 웹 어플리케이션 서버(WAS)의 차이는 무엇인가요?
-- REST API에 대해서 설명해 주세요.
+- [REST API에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/105)
 - API Gateway란 무엇인가요?
 - 흐름제어 / 혼잡제어 / 오류제어
 
