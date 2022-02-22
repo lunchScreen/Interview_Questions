@@ -21,7 +21,7 @@
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/10)
 - [Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/13)
-- NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
+- [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/107)
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
 - [App Bundle의 구조와 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/30)
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/19)
@@ -83,7 +83,7 @@
 - [defer란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/23)
 - [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/24)
 - [property wrapper에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/100)
-- Generic에 대해 설명하시오.
+- [Generic에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/108)
 - Result타입에 대해 설명하시오.
 - Codable에 대하여 설명하시오.
 - [swift 내의 sort 가 어떻게 구현되어있나요?](https://github.com/lunchScreen/Interview_Questions/issues/83)
