@@ -68,7 +68,7 @@
 
 ## 📌 Algorithm
 
-- ✨LinkedList vs ArrayList의 차이점에 대해 설명하시오 (+Array는 추가적인 메모리 확보가 )
+- ✨[LinkedList vs ArrayList의 차이점에 대해 설명하시오 (+Array는 추가적인 메모리 확보가 )](https://github.com/lunchScreen/Interview_Questions/issues/110)
 - [call by Value 와 call by Reference 의 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/47)
 - 빅오 표기법에 대해서 설명해주세요
 - DFS & BFS
@@ -114,7 +114,7 @@
 ## 📌 Datebase
 
 - ✨[인덱스란 무엇인가요? 어떻게 동작 하나요?](https://github.com/lunchScreen/Interview_Questions/issues/79)
-- ✨결합인덱스
+- ✨[결합인덱스](https://github.com/lunchScreen/Interview_Questions/issues/109)
 - ✨[NoSQL vs RDBMS](https://github.com/lunchScreen/Interview_Questions/issues/65)
 - ✨[트랜잭션이란 무엇인가요? 4가지 원칙을 포함해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/66)
 - 트랜잭션의 격리 수준과 각 수준에서 발생할 수 있는 문제들에 대해 말해보세요.
