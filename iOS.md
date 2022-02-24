@@ -14,7 +14,7 @@
 - UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/46)
 ###
-- NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
+- [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/111)
 - GCD API 동작 방식과 필요성에 대해 설명하시오.
 - [Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/96)
 ###
@@ -84,7 +84,7 @@
 - [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/24)
 - [property wrapper에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/100)
 - [Generic에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/108)
-- Result타입에 대해 설명하시오.
+- [Result타입에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/112)
 - Codable에 대하여 설명하시오.
 - [swift 내의 sort 가 어떻게 구현되어있나요?](https://github.com/lunchScreen/Interview_Questions/issues/83)
 
