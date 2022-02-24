@@ -71,7 +71,7 @@
 - ✨[LinkedList vs ArrayList의 차이점에 대해 설명하시오 (+Array는 추가적인 메모리 확보가 )](https://github.com/lunchScreen/Interview_Questions/issues/110)
 - [call by Value 와 call by Reference 의 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/47)
 - 빅오 표기법에 대해서 설명해주세요
-- DFS & BFS
+- [DFS & BFS](https://github.com/lunchScreen/Interview_Questions/issues/114)
 - 다익스트라 알고리즘에 대해서 설명해 주세요.
 - 프림 알고리즘에 대해서 설명해 주세요.
 - 크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.
@@ -95,7 +95,7 @@
 - 시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?
 - 시간복잡도가 작은 알고리즘은 무조건 빠른가?
 - 최악의 복잡도는 나쁘지만 실제로는 자주 사용되는 알고리즘을 나열하시오
-- 분할정복에 대해 설명하고 그 예시를 드시오
+- [분할정복에 대해 설명하고 그 예시를 드시오](https://github.com/lunchScreen/Interview_Questions/issues/113)
 - Dynamic Programming가 무엇이고 왜 어떻게 사용하는가?
 - Memoization 에 대해 설명하시오
 
