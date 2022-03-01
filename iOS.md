@@ -85,7 +85,7 @@
 - [property wrapper에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/100)
 - [Generic에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/108)
 - [Result타입에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/112)
-- Codable에 대하여 설명하시오.
+- [Codable에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/116)
 - [swift 내의 sort 가 어떻게 구현되어있나요?](https://github.com/lunchScreen/Interview_Questions/issues/83)
 
 ## 📌 ARC
@@ -150,7 +150,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 - Plist 파일 구조와 Plist 파일에 저장된 데이터를 다루기 적합한 클래스를 설명하시오.
 - [Core Data와 Sqlite 같은 데이터 베이스의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/8)
 - JSON 데이터를 처리하는 방식과 파서, 객체 변환 방식에 대해 설명하시오.
-- 웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작을 설명하시오.
+- [웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/117)
 - Protocol에서는 왜 var만 되는지 설명하시요.
 
 ## Objective-C
