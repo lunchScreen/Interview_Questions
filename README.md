@@ -6,8 +6,14 @@
       [inswag](https://github.com/inswag/Technical_interview_for_iOS_Dev), 
       [DopplerHQ](https://github.com/DopplerHQ/awesome-interview-questions#ios)
 
-스터디 요일 : 매주 화 목 10시 (화 : 목금월 질문회고 / 목: 화수 질문회고) <br/>
-제출 형식 : 각자 공부한것 issue 댓글로 달기 <br/>
+- 주 1회 활동으로 변경
+- 모임없이 정해진 시간내에 업로드하는것이 규칙
+- 일요일까지 업로드하는 것으로
+- 업로드 후 각자 한문제씩 골라서 이슈에 올리기
+- iOS, CS 각자 순서를 정해놓고 바꿔가면서
+- 자기 문제는 링크연결도 직접
+- 특이사항은 카톡으로 보고
+
 벌금 : 1문제당 1000원
 
 ## 📚 Contents
