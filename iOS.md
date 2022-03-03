@@ -77,9 +77,9 @@
 - [Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/78)
 - [mutating 키워드에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/99)
 - [탈출 클로저에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/35)
-- Extension에 대해 설명하시오.
+- [Extension에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/120)
 - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
-- 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
+- [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/119)
 - [defer란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/23)
 - [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/24)
 - [property wrapper에 대해서 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/100)
