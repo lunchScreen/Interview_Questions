@@ -143,7 +143,7 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 - NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오.
 - [Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - [NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/49)
-- shallow copy와 deep copy의 차이점을 설명하시오.
+- [shallow copy와 deep copy의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/125)
 - Push Notification 방식에 대해 설명하시오.
 - Foundation 과 Core Foundation 프레임워크의 차이점을 설명하시오.
 - NSURLConnection 에서 사용하는 Delegate 메서드들에 대해 설명하시오.
