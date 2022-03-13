@@ -102,7 +102,7 @@
 
 ### Tree
 
-- 그래프와 트리의 차이점에 대해서 설명해 주세요.
+- [그래프와 트리의 차이점에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/126)
 - 힙 자료구조에 대해 설명해 주세요.
 - 힙의 삽입과 삭제는 어떻게 이루어지나요?
 - 포화(Perfect) 이진트리, 완전(Complete) 이진트리, 정(Full) 이진트리의 차이점에 대해 각각 설명해주세요
