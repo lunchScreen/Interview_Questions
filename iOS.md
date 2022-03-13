@@ -43,6 +43,7 @@
 ###
 - [gesture event 에서 두개가 들어와 충돌이 나면 delegate 로 해결할 수 있는 방법에 대해 아시나요?](https://github.com/lunchScreen/Interview_Questions/issues/87)
 - [#selector 의 메소드가 어떤 역할을 하는지?  (@Objc 를 붙이는 이유는?)](https://github.com/lunchScreen/Interview_Questions/issues/88)
+- [View 렌더링사이클에 대해서 설명해주세요](https://github.com/lunchScreen/Interview_Questions/issues/124)
 
 
 ## 📌 Autolayout
