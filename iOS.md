@@ -62,7 +62,7 @@
 - [Convinience init에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/32)
 - [AnyObject에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/27)
 - [Optional 이란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/54)
-- Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
+- [Struct 가 무엇이고 어떻게 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/128)
 - [Subscripts에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/26)
 - [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/37)
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
