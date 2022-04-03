@@ -139,7 +139,7 @@ Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입
 Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 
 ## Advanced
-- method swizzling이 무엇이고, 어떨 때 사용하는지 설명하시오.
+- [method swizzling이 무엇이고, 어떨 때 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/132)
 - NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오.
 - [Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - [NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/49)
