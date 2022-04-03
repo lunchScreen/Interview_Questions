@@ -107,7 +107,7 @@
 - [의존성 주입에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/5)
 
 ## 📌 SwiftUI
-- @State에 대해서 설명하시오
+- [@State에 대해서 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/133)
 
 
 ## 📌 Combine
