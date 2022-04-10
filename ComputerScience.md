@@ -50,7 +50,7 @@
 - ✨TCP RST 
 - [OSI 7계층](https://github.com/lunchScreen/Interview_Questions/issues/86)
 - TCP/IP 4계층에 대해서 설명해주세요.
-- DNS가 무엇인가요?
+- [DNS가 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/135)
 - 도메인 이름으로 실제 IP를 어떻게 찾을 수 있는지 흐름을 설명해 주세요.
 - TCP 헤더에 대해서 설명해 주세요.
 - [대칭키와 공개키](https://github.com/lunchScreen/Interview_Questions/issues/84)
