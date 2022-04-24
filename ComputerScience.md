@@ -21,7 +21,7 @@
 - [IPC](https://github.com/lunchScreen/Interview_Questions/issues/72)
 - [인터럽트](https://github.com/lunchScreen/Interview_Questions/issues/85)
 - [뮤텍스와 세마포어의 차이](https://github.com/lunchScreen/Interview_Questions/issues/75)
-- Context Switching의 개념과 과정
+- [Context Switching의 개념과 과정](https://github.com/lunchScreen/Interview_Questions/issues/138)
 - 임계구역
 - 프로세스 혹은 스레드의 동기화란 무엇인가요?
 - 사용자 수준의 스레드와 커널 수준의 스레드의 차이는 무엇인가요?
