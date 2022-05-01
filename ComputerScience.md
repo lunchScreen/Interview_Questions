@@ -158,7 +158,7 @@
 - 순수 추상 클래스와 인터페이스의 차이는 무엇인가요?
 - 디자인 패턴이란 무엇인가요?
 - 클린코드란?
-- 애자일 기법이란?
+- [애자일 기법이란?](https://github.com/lunchScreen/Interview_Questions/issues/140)
 - [객체지향이 무엇인가요? 절차지향과의 차이점은 뭐죠?](https://github.com/lunchScreen/Interview_Questions/issues/90)
 - [객체지향 SOLID 원칙에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/89)
 - [객체지향 4가지 특징에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/93)
