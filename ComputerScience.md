@@ -11,7 +11,7 @@
 - Cache Memory의 역할은 무엇인가
 - [Caching Locality와 Cache Hit Ratio에 대해 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/98)
 - 운영체제란
-- 멀티 프로세스와 멀티 스레드의 차이점
+- [멀티 프로세스와 멀티 스레드의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/142)
 - First Fit, Best Fit, Worst Fit
 - [외부단편화, 내부단편화](https://github.com/lunchScreen/Interview_Questions/issues/103)
 - [페이지와 세그멘테이션](https://github.com/lunchScreen/Interview_Questions/issues/102)
