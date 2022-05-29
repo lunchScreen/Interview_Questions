@@ -7,7 +7,7 @@
 - [✨CPU 스케쥴링의 종류](https://github.com/lunchScreen/Interview_Questions/issues/64)
 - race condition(경쟁상태)를 방지하기 위한 조건
 - 프로세스에 할당되는 메모리의 각 영역에 대해서 설명해 주세요.
-- 메모리 구조의 순서가 어떻게 되는가? CPU에서 가까운 순으로 말해보시오.
+- [메모리 구조의 순서가 어떻게 되는가? CPU에서 가까운 순으로 말해보시오.](https://github.com/lunchScreen/Interview_Questions/issues/149)
 - Cache Memory의 역할은 무엇인가
 - [Caching Locality와 Cache Hit Ratio에 대해 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/98)
 - 운영체제란
