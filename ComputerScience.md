@@ -124,7 +124,7 @@
 - 내부 조인과 외부 조인의 차이는 무엇인가요?
 - 정규화에 대해서 설명해 주세요.
 - [파티셔닝과 샤딩에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/123)
-- 스키마란 무엇인가요?
+- [스키마란 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/152)
 - ORM이란 무엇인가요?
 
 
