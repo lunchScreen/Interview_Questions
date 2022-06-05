@@ -79,7 +79,7 @@
 - [mutating 키워드에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/99)
 - [탈출 클로저에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/35)
 - [Extension에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/120)
-- Extension 내부에서 함수를 override할 수 있는지 설명하시오.
+- [Extension 내부에서 함수를 override할 수 있는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/151)
 - [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/119)
 - [defer란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/23)
 - [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/24)
@@ -94,7 +94,7 @@
 - [Retain Count 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/150)
 - [Strong 과 Weak 참조 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/6)
 - [순환 참조에 대하여 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/148)
-- 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
+- [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/154)
 
 ## 📌 Functional Programming
 - [순수함수란 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/69)
