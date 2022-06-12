@@ -10,7 +10,7 @@
 - [메모리 구조의 순서가 어떻게 되는가? CPU에서 가까운 순으로 말해보시오.](https://github.com/lunchScreen/Interview_Questions/issues/149)
 - Cache Memory의 역할은 무엇인가
 - [Caching Locality와 Cache Hit Ratio에 대해 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/98)
-- 운영체제란
+- [운영체제란](https://github.com/lunchScreen/Interview_Questions/issues/156)
 - [멀티 프로세스와 멀티 스레드의 차이점](https://github.com/lunchScreen/Interview_Questions/issues/142)
 - First Fit, Best Fit, Worst Fit
 - [외부단편화, 내부단편화](https://github.com/lunchScreen/Interview_Questions/issues/103)
