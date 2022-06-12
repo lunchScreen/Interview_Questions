@@ -56,7 +56,7 @@
 - [대칭키와 공개키](https://github.com/lunchScreen/Interview_Questions/issues/84)
 - HTTP 프로토콜에 대해서 아는대로 말해주세요.
 - [HTTP와 HTTPS 의 차이는 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/146)
-- HTTP 1.0과 1.1의 차이는 무엇인가요?
+- [HTTP 1.0과 1.1의 차이는 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/155)
 - [HTTP 헤더의 구조에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/71)
 - [쿠키와 세션에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/122)
 - [웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.](https://github.com/lunchScreen/Interview_Questions/issues/76)
