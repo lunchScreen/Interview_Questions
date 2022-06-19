@@ -31,7 +31,7 @@
 - [UIWindow 객체의 역할은 무엇인가?](https://github.com/lunchScreen/Interview_Questions/issues/43)
 - [UINavigationController 의 역할이 무엇인지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/44)
 - TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
-- 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
+- [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/159)
 - [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/22)
 ###
 - [NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/73)
