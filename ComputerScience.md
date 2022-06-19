@@ -2,7 +2,7 @@
 
 - [✨프로세스와 스레드의 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/51)
 - [✨Race Condition에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/52)
-- ✨메모리가 부족하면 OS 가 어떤일을 할까?(iOS 측면도 )
+- [✨메모리가 부족하면 OS 가 어떤일을 할까?(iOS 측면도 )](https://github.com/lunchScreen/Interview_Questions/issues/153)
 - [✨교착상태(데드락, Deadlock)이 발생하기위한 조건과 해결책](https://github.com/lunchScreen/Interview_Questions/issues/63)
 - [✨CPU 스케쥴링의 종류](https://github.com/lunchScreen/Interview_Questions/issues/64)
 - race condition(경쟁상태)를 방지하기 위한 조건
@@ -152,7 +152,7 @@
 - ✨if를 지양하는 것이 좋은데 그 이유과 극복방법
 - 프레임워크와 라이브러리 차이는 무엇인가요?
 - 컴파일러와 인터프리터의 차이는 무엇인가요?
-- 1급 객체에 대해서 설명해 주세요.
+- [1급 객체에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/158)
 - 클래스, 객체, 인스턴스 차이에 대해서 설명해 주세요.
 - 순수 추상 클래스와 인터페이스의 차이는 무엇인가요?
 - 순수 추상 클래스와 인터페이스의 차이는 무엇인가요?
