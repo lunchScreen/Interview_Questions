@@ -35,7 +35,7 @@
 - Dining Philosophers Problem
 
 ### Advanced
-- Call Stack에 대해 설명하시오
+- [Call Stack에 대해 설명하시오](https://github.com/lunchScreen/Interview_Questions/issues/160)
 - Heap Corruption에 대해 설명하시오
 - Heap 메모리는 무엇이고 사용하는 이유는 무엇인가
 - [Heap과 Stack의 장단점 비교 (속도, 크기 등)](https://github.com/lunchScreen/Interview_Questions/issues/130)
