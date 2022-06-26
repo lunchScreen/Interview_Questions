@@ -149,7 +149,7 @@
 - ✨현실세계에서는 다중상속이 가능한데 왜 프로그래밍 언어에서는 안될까?
 - ✨다중상속을 하면 어떤 문제가 발생하는가, 어떻게 해결할 수 있나?
 - ✨immutability의 개념과 필요성
-- ✨if를 지양하는 것이 좋은데 그 이유과 극복방법
+- ✨[if를 지양하는 것이 좋은데 그 이유과 극복방법](https://github.com/lunchScreen/Interview_Questions/issues/162)
 - 프레임워크와 라이브러리 차이는 무엇인가요?
 - 컴파일러와 인터프리터의 차이는 무엇인가요?
 - [1급 객체에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/158)
