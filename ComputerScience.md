@@ -154,8 +154,7 @@
 - 컴파일러와 인터프리터의 차이는 무엇인가요?
 - [1급 객체에 대해서 설명해 주세요.](https://github.com/lunchScreen/Interview_Questions/issues/158)
 - 클래스, 객체, 인스턴스 차이에 대해서 설명해 주세요.
-- 순수 추상 클래스와 인터페이스의 차이는 무엇인가요?
-- 순수 추상 클래스와 인터페이스의 차이는 무엇인가요?
+- [순수 추상 클래스와 인터페이스의 차이는 무엇인가요?](https://github.com/lunchScreen/Interview_Questions/issues/164)
 - 디자인 패턴이란 무엇인가요?
 - 클린코드란?
 - [애자일 기법이란?](https://github.com/lunchScreen/Interview_Questions/issues/140)
