@@ -65,7 +65,7 @@
 - [Struct 가 무엇이고 어떻게 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/128)
 - [Subscripts에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/26)
 - [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/37)
-- instance 메서드와 class 메서드의 차이점을 설명하시오.
+- [instance 메서드와 class 메서드의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/169)
 - [class 메서드와 static 메서드의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/60)
 - [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/14)
 - [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/55)
