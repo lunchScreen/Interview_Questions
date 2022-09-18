@@ -71,7 +71,7 @@
 - [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/55)
 - [KVO 동작 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/40)
 - [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/59)
-- 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
+- [멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/168)
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 - 프로토콜이란 무엇인지 설명하시오.
 - [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/28)
@@ -140,15 +140,15 @@ Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
 
 ## Advanced
 - [method swizzling이 무엇이고, 어떨 때 사용하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/132)
-- NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오.
+- [NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/145)
 - [Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/21)
 - [NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/49)
 - [shallow copy와 deep copy의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/125)
 - [Push Notification 방식에 대해 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/163)
-- Foundation 과 Core Foundation 프레임워크의 차이점을 설명하시오.
+- [Foundation 과 Core Foundation 프레임워크의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/147)
 - NSURLConnection 에서 사용하는 Delegate 메서드들에 대해 설명하시오.
 - Synchronous 방식과 Asynchronous 방식으로 URL Connection을 처리할 경우의 장단점을 비교하시오.
-- Plist 파일 구조와 Plist 파일에 저장된 데이터를 다루기 적합한 클래스를 설명하시오.
+- [Plist 파일 구조와 Plist 파일에 저장된 데이터를 다루기 적합한 클래스를 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/174)
 - [Core Data와 Sqlite 같은 데이터 베이스의 차이점을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/8)
 - JSON 데이터를 처리하는 방식과 파서, 객체 변환 방식에 대해 설명하시오.
 - [웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작을 설명하시오.](https://github.com/lunchScreen/Interview_Questions/issues/117)
